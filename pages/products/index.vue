@@ -2,7 +2,7 @@
   <div>
     <div class="grid grid-cols-4 gap-5">
       <div v-for="(item, index) in products" :key="index">
-        <NuxtLink :to="`/products/${item.id}`">{{ item.title }}</NuxtLink>
+        <ProductCard :product="item" />
       </div>
     </div>
   </div>
