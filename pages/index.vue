@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="bg-red-900">Home</h2>
+    <h2>Home</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit illo dolore
       quisquam similique qui blanditiis omnis magnam voluptatum, cupiditate
